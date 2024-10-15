@@ -1,0 +1,376 @@
+the_geom,gid,program,site_name,city,state,mapped_acr,Latitude,Longitude
+POINT (-107.766266 37.960952),1345,Brownfield,Lizard,Unincorporated Ouray County,CO,10.85,37.960952,-107.766266
+POINT (-107.730183 37.932621),1324,Brownfield,Honolulu,Unincorporated Ouray County,CO,10.34,37.932621,-107.730183
+POINT (-107.728001 37.942002),1303,Brownfield,Gertrude,Unincorporated Ouray County,CO,10.26,37.942002,-107.728001
+POINT (-107.780147 37.969739),1374,Brownfield,Nuada,Unincorporated Ouray County,CO,7.85,37.969739,-107.780147
+POINT (-104.98027 39.79333),101,Abandoned Mine Land,"ASARCO, INC. (GLOBE PLANT)",DENVER,CO,1010,39.79333,-104.98027
+POINT (-105.119179 39.717373),6365,RCRA,General Services Admin,Lakewood,CO,690,39.717373,-105.119179
+POINT (-107.77 37.99),1327,Brownfield,Ilda G.,Unincorporated Ouray County,CO,10.34,37.99,-107.77
+POINT (-107.698784 37.985308),1270,Brownfield,Croesus No. 5,Unincorporated Ouray County,CO,9.64,37.985308,-107.698784
+POINT (-105.466 37.347),96,Abandoned Mine Land,CEDAR RESOURCES,CONEJOS,CO,0,37.347,-105.466
+POINT (-107.778432 37.969418),1292,Brownfield,Fargo,Unincorporated Ouray County,CO,10.34,37.969418,-107.778432
+POINT (-104.945556 39.803333),6344,RCRA,Suncor Energy (Usa) Dnv Refinery-Main,Commerce City,CO,23,39.803333,-104.945556
+POINT (-105.12796 39.98365),1205,Brownfield,Louisville Tire and Auto Center,Louisville,CO,0,39.98365,-105.12796
+POINT (-107.721916 37.941293),1429,Brownfield,Tuscola,Unincorporated Ouray County,CO,10.34,37.941293,-107.721916
+POINT (-107.783877 37.976527),1369,Brownfield,New Discovery,Unincorporated Ouray County,CO,5.07,37.976527,-107.783877
+POINT (-104.612206 38.231548),6374,RCRA,Rocky Mountain Steel Mills,Pueblo,CO,639,38.231548,-104.612206
+POINT (-105.00595 39.484235),6370,RCRA,E.I. Dupont De Nemours & Co Inc Louviers,Louviers,CO,0,39.484235,-105.00595
+POINT (-107.571 37.844),139,Abandoned Mine Land,UPPER ANIMAS MINING DISTRICT,SILVERTON,CO,0,37.844,-107.571
+POINT (-107.716376 37.942488),1331,Brownfield,Ivanhoe,Unincorporated Ouray County,CO,10.05,37.942488,-107.716376
+POINT (-107.792361 37.989316),1299,Brownfield,Fox,Unincorporated Ouray County,CO,20.07,37.989316,-107.792361
+POINT (-107.717649 38.005552),1360,Brownfield,Moslem,Unincorporated Ouray County,CO,10.09,38.005552,-107.717649
+POINT (-107.625 37.971),130,Abandoned Mine Land,UPPER UNCOMPAHGRE RIVER,OURAY,CO,3840,37.971,-107.625
+POINT (-107.743822 37.946382),1267,Brownfield,Courier,Unincorporated Ouray County,CO,10.34,37.946382,-107.743822
+POINT (-105.04558 39.83459),1451,Brownfield,Pousky,Westminster,CO,0.25,39.83459,-105.04558
+POINT (-107.716761 37.955893),1352,Brownfield,Memoranda,Unincorporated Ouray County,CO,10.21,37.955893,-107.716761
+POINT (-107.7428 37.942718),1228,Brownfield,Apache,Unincorporated Ouray County,CO,9.64,37.942718,-107.7428
+POINT (-105.000863 39.780153),6355,RCRA,Ramp Industries Inc,Denver,CO,0.52,39.780153,-105.000863
+POINT (-107.740739 37.94418),1251,Brownfield,Canuck,Unincorporated Ouray County,CO,10.34,37.94418,-107.740739
+POINT (-105.262321 40.004828),6339,RCRA,University Of Colorado - Boulder,Boulder,CO,0,40.004828,-105.262321
+POINT (-105.573 40.284),86,Abandoned Mine Land,EUGENIA MINE,ALLENSPARK,CO,0,40.284,-105.573
+POINT (-107.724609 37.952952),1236,Brownfield,Barnaby,Unincorporated Ouray County,CO,9.82,37.952952,-107.724609
+POINT (-107.720152 37.952397),1275,Brownfield,Declaration,Unincorporated Ouray County,CO,10.33,37.952397,-107.720152
+POINT (-106.001 38.53),136,Abandoned Mine Land,KOPPERS - SALIDA,SALIDA,CO,0,38.53,-106.001
+POINT (-106.492 39.141),120,Abandoned Mine Land,HALF MOON CREEK SITE,LEADVILLE,CO,1,39.141,-106.492
+POINT (-104.767305 39.638571),6335,RCRA,Autoliv Asp  Inc,Aurora,CO,640,39.638571,-104.767305
+POINT (-107.726567 37.951387),1263,Brownfield,Conqueror M.S.,Unincorporated Ouray County,CO,5,37.951387,-107.726567
+POINT (-107.702002 37.952529),1330,Brownfield,Iron Man,Unincorporated Ouray County,CO,10.34,37.952529,-107.702002
+POINT (-107.774555 37.991977),1412,Brownfield,Star of the West,Unincorporated Ouray County,CO,10.34,37.991977,-107.774555
+POINT (-107.72246 37.955667),1411,Brownfield,Standish,Unincorporated Ouray County,CO,10.34,37.955667,-107.72246
+POINT (-107.744636 37.947937),1249,Brownfield,Cabanas,Unincorporated Ouray County,CO,10.07,37.947937,-107.744636
+POINT (-105.2357 40.252786),6371,RCRA,Syntex Lyons Groundwater Cleanup Project,Lyons,CO,85,40.252786,-105.2357
+POINT (-108.764509 39.171863),6361,RCRA,Western Slope Refining Company,Fruita,CO,400,39.171863,-108.764509
+POINT (-104.50096 37.17678),1217,Brownfield,Colorado Brownfields Foundation,Trinidad,CO,0.13,37.17678,-104.50096
+POINT (-107.723918 37.936039),1323,Brownfield,High Ball,Unincorporated Ouray County,CO,10.37,37.936039,-107.723918
+POINT (-104.981462 39.789217),6347,RCRA,Asarco Incorporated Globe Plant,Denver,CO,90,39.789217,-104.981462
+POINT (-107.740382 37.973027),1252,Brownfield,Cataract,Unincorporated Ouray County,CO,6.13,37.973027,-107.740382
+POINT (-107.726773 37.945681),1311,Brownfield,Good Luck Extension,Unincorporated Ouray County,CO,4.1,37.945681,-107.726773
+POINT (-105.133202 40.579996),6359,RCRA,Colorado State University (Disposal),Fort Collins,CO,0,40.579996,-105.133202
+POINT (-107.711242 37.942492),1441,Brownfield,Yaller Dorg,Unincorporated Ouray County,CO,10.34,37.942492,-107.711242
+POINT (-107.724824 37.954343),1446,Brownfield,Yellow Rose M.S.,Unincorporated Ouray County,CO,4.96,37.954343,-107.724824
+POINT (-107.721469 37.965075),1354,Brownfield,Miles,Unincorporated Ouray County,CO,6.49,37.965075,-107.721469
+POINT (-105.2333 38.4),93,Abandoned Mine Land,LINCOLN PARK,CANON CITY,CO,1310,38.4,-105.2333
+POINT (-105.008665 39.674025),6356,RCRA,Remelt Metals Inc,Englewood,CO,4.34,39.674025,-105.008665
+POINT (-107.737987 37.944169),1384,Brownfield,Oro Cache,Unincorporated Ouray County,CO,10.3,37.944169,-107.737987
+POINT (-107.784254 37.981855),1348,Brownfield,Maggie D.,Unincorporated Ouray County,CO,10.34,37.981855,-107.784254
+POINT (-106.020833 38.548889),6376,RCRA,Cozinco,Salida,CO,25,38.548889,-106.020833
+POINT (-107.713632 37.956398),1289,Brownfield,Equinox,Unincorporated Ouray County,CO,10.34,37.956398,-107.713632
+POINT (-106.3917 39.53333),124,Abandoned Mine Land,EAGLE MINE,MINTURN/REDCLIFF,CO,1000,39.53333,-106.3917
+POINT (-107.717399 37.962176),1233,Brownfield,Babcock No. 1,Unincorporated Ouray County,CO,10.34,37.962176,-107.717399
+POINT (-107.683565 37.991708),1308,Brownfield,Gold Eagle,Unincorporated Ouray County,CO,9.36,37.991708,-107.683565
+POINT (-107.705251 37.953252),1436,Brownfield,White Flag,Unincorporated Ouray County,CO,10.34,37.953252,-107.705251
+POINT (-107.767609 37.97645),1406,Brownfield,Silver Dollar,Unincorporated Ouray County,CO,10.22,37.97645,-107.767609
+POINT (-105.101755 39.929311),6340,RCRA,Microsemi Consortium,Broomfield,CO,20,39.929311,-105.101755
+POINT (-105.188074 40.075937),6369,RCRA,Dover Industries Remediation,Longmont,CO,14.6,40.075937,-105.188074
+POINT (-104.7083 39.64333),4804,Non-Federal Superfund,LOWRY LANDFILL,AURORA,CO,508,39.64333,-104.7083
+POINT (-107.773916 37.975012),1448,Brownfield,Zigzag,Unincorporated Ouray County,CO,10.34,37.975012,-107.773916
+POINT (-107.77 37.99),1386,Brownfield,Otto,Unincorporated Ouray County,CO,10.34,37.99,-107.77
+POINT (-107.737346 37.971257),1367,Brownfield,Nelson,Unincorporated Ouray County,CO,7.63,37.971257,-107.737346
+POINT (-107.686936 37.987877),1258,Brownfield,Cloudy Day,Unincorporated Ouray County,CO,9.32,37.987877,-107.686936
+POINT (-107.732596 37.932983),1265,Brownfield,Coronado,Unincorporated Ouray County,CO,10.34,37.932983,-107.732596
+POINT (-104.9424 39.795),4807,Non-Federal Superfund,WOODBURY CHEMICAL CO.,COMMERCE CITY,CO,15,39.795,-104.9424
+POINT (-107.723569 37.964252),1222,Brownfield,Aguinaldo,Unincorporated Ouray County,CO,10.34,37.964252,-107.723569
+POINT (-104.9989 39.8148),4808,Non-Federal Superfund,BRODERICK WOOD PRODUCTS,DENVER,CO,64,39.8148,-104.9989
+POINT (-107.729167 37.94361),1338,Brownfield,King Edward,Unincorporated Ouray County,CO,10.32,37.94361,-107.729167
+POINT (-105.546 38.269),110,Abandoned Mine Land,GEM PARK COMPLEX,HILLSIDE,CO,0,38.269,-105.546
+POINT (-107.729083 37.957435),1279,Brownfield,Domingo,Unincorporated Ouray County,CO,10.34,37.957435,-107.729083
+POINT (-107.776754 37.978466),1256,Brownfield,Clipper No. 2,Unincorporated Ouray County,CO,10.34,37.978466,-107.776754
+POINT (-104.878 38.726),142,Abandoned Mine Land,GILLETTE GOLD EXTRACTION CO,VICTOR,CO,0,38.726,-104.878
+POINT (-107.72582 37.940531),1337,Brownfield,King Edward,Unincorporated Ouray County,CO,4.6,37.940531,-107.72582
+POINT (-107.727358 37.969637),1274,Brownfield,Deadwood,Unincorporated Ouray County,CO,10.34,37.969637,-107.727358
+POINT (-107.735079 37.941153),1245,Brownfield,Boxer,Unincorporated Ouray County,CO,10.34,37.941153,-107.735079
+POINT (-107.716347 37.941585),1419,Brownfield,Tam O'Shanter,Unincorporated Ouray County,CO,10.05,37.941585,-107.716347
+POINT (-107.79 37.985649),1238,Brownfield,Bear,Unincorporated Ouray County,CO,20.62,37.985649,-107.79
+POINT (-106.58500000000001 37.43),134,Abandoned Mine Land,SUMMITVILLE MINE,RIO GRANDE COUNTY,CO,1230,37.43,-106.585
+POINT (-107.682772 37.996544),1297,Brownfield,Forward,Unincorporated Ouray County,CO,8.67,37.996544,-107.682772
+POINT (-105.0916 39.500004),6368,RCRA,Us Air Force Plant - Pjks,Littleton,CO,464,39.500004,-105.0916
+POINT (-107.721637 37.959597),1247,Brownfield,Bryant,Unincorporated Ouray County,CO,10.34,37.959597,-107.721637
+POINT (-107.70069 37.976811),1404,Brownfield,Senator,Unincorporated Ouray County,CO,9.51,37.976811,-107.70069
+POINT (-105.026536 39.475293),6366,RCRA,Dyno Nobel Inc,Littleton,CO,299.6,39.475293,-105.026536
+POINT (-104.743888 38.724444),6358,RCRA,Dept Of The Army / Fort Carson,Fort Carson,CO,137400,38.724444,-104.743888
+POINT (-107.697997 37.982015),1362,Brownfield,Mountain Lion,Unincorporated Ouray County,CO,9.45,37.982015,-107.697997
+POINT (-106.135 37.862),126,Abandoned Mine Land,SILVER BELL MINE/MILL,OPHIR,CO,0,37.862,-106.135
+POINT (-107.768882 37.989343),1328,Brownfield,Ilda G. Mill Site,Unincorporated Ouray County,CO,4.62,37.989343,-107.768882
+POINT (-107.723769 37.957111),1373,Brownfield,Norma M.S.,Unincorporated Ouray County,CO,5,37.957111,-107.723769
+POINT (-107.711214 37.941668),1427,Brownfield,Tramp,Unincorporated Ouray County,CO,10.34,37.941668,-107.711214
+POINT (-107.72014 38.008904),1310,Brownfield,Gold Thread,Unincorporated Ouray County,CO,10.03,38.008904,-107.72014
+POINT (-107.727129 37.964677),1218,Brownfield,Africa,Unincorporated Ouray County,CO,20.68,37.964677,-107.727129
+POINT (-107.722922 37.969768),1353,Brownfield,Midnight,Unincorporated Ouray County,CO,9.74,37.969768,-107.722922
+POINT (-107.777486 37.978165),1405,Brownfield,Shamrock,Unincorporated Ouray County,CO,10.34,37.978165,-107.777486
+POINT (-107.770763 37.993804),1225,Brownfield,American Girl,Unincorporated Ouray County,CO,7.49,37.993804,-107.770763
+POINT (-107.77796 37.969915),1422,Brownfield,Thomas J. Regan,Unincorporated Ouray County,CO,20.68,37.969915,-107.77796
+POINT (-105.12373 39.72333),6350,RCRA,Fhwa Cflhd Materials Laboratory,Denver,CO,3.1,39.72333,-105.12373
+POINT (-106.8107 39.19166),87,Abandoned Mine Land,SMUGGLER MOUNTAIN,ASPEN,CO,116,39.19166,-106.8107
+POINT (-107.683565 37.991708),1349,Brownfield,Manganese,Unincorporated Ouray County,CO,9.19,37.991708,-107.683565
+POINT (-105.0699 39.797051),6334,RCRA,Arvada Treatment Center Llc,Arvada,CO,0,39.797051,-105.0699
+POINT (-107.705251 37.953252),1407,Brownfield,Snap Shot,Unincorporated Ouray County,CO,10.34,37.953252,-107.705251
+POINT (-107.732128 37.951428),1268,Brownfield,Cousin Jack,Unincorporated Ouray County,CO,10.34,37.951428,-107.732128
+POINT (-107.740231 37.946117),1377,Brownfield,Olympia,Unincorporated Ouray County,CO,10.34,37.946117,-107.740231
+POINT (-103.126 38.849),95,Abandoned Mine Land,COLORADO PHILADELPHIA REDUCTION WORKS,COLORADO SPRINGS,CO,0,38.849,-103.126
+POINT (-107.721007 37.957682),1409,Brownfield,Spencer,Unincorporated Ouray County,CO,9.65,37.957682,-107.721007
+POINT (-107.74011 37.972273),1257,Brownfield,Clorinda,Unincorporated Ouray County,CO,9.8,37.972273,-107.74011
+POINT (-106.686 38.223),118,Abandoned Mine Land,HENSON CREEK MINES,LAKE CITY,CO,0,38.223,-106.686
+POINT (-107.717758 37.942708),1395,Brownfield,Rebecca,Unincorporated Ouray County,CO,10.34,37.942708,-107.717758
+POINT (-107.733477 37.941716),1335,Brownfield,Juneau No. 2,Unincorporated Ouray County,CO,10.15,37.941716,-107.733477
+POINT (-105.2 39.95),4805,Non-Federal Superfund,MARSHALL LANDFILL,BOULDER,CO,152,39.95,-105.2
+POINT (-107.723642 37.950412),1264,Brownfield,Constance,Unincorporated Ouray County,CO,10.27,37.950412,-107.723642
+POINT (-107.722076 37.964592),1385,Brownfield,Otis,Unincorporated Ouray County,CO,9.93,37.964592,-107.722076
+POINT (-107.788108 37.981987),1254,Brownfield,Cherubusco,Unincorporated Ouray County,CO,9.95,37.981987,-107.788108
+POINT (-107.77 37.99),1281,Brownfield,Dread Not No. 2,Unincorporated Ouray County,CO,6.89,37.99,-107.77
+POINT (-107.779872 37.973522),1363,Brownfield,Mountain Queen,Unincorporated Ouray County,CO,9.11,37.973522,-107.779872
+POINT (-107.8802 37.278553),1198,Brownfield,Durango Power Plant,Durango,CO,6.1,37.278553,-107.8802
+POINT (-107.741097 37.959345),1370,Brownfield,Nootka,Unincorporated Ouray County,CO,10.34,37.959345,-107.741097
+POINT (-107.719689 37.967706),1440,Brownfield,Wyoming,Unincorporated Ouray County,CO,10.13,37.967706,-107.719689
+POINT (-104.938376 39.691129),6349,RCRA,Colo Dept Of Trans - Hq Complex,Denver,CO,14,39.691129,-104.938376
+POINT (-104.991928 39.670758),6353,RCRA,Power Engineering Company,Denver,CO,4.4,39.670758,-104.991928
+POINT (-104.465 38.404),97,Abandoned Mine Land,EAST WILLOW CREEK AND WILLOW CREEK,CREEDE,CO,0,38.404,-104.465
+POINT (-107.78 37.980000000000004),1246,Brownfield,Brooklyn,Unincorporated Ouray County,CO,10.34,37.98,-107.78
+POINT (-104.083 39.550000000000004),140,Abandoned Mine Land,ROYAL TIGER MINE AND MILL,UNINCORPORATED,CO,0,39.55,-104.083
+POINT (-107.746154 37.944808),1273,Brownfield,Damon,Unincorporated Ouray County,CO,10.34,37.944808,-107.746154
+POINT (-106.042 37.875),115,Abandoned Mine Land,HALL VALLEY MINES,JEFFERSON,CO,0,37.875,-106.042
+POINT (-105.080296 40.568752),6360,RCRA,Colorado State University (Storage),Fort Collins,CO,0,40.568752,-105.080296
+POINT (-107.72246 37.955667),1223,Brownfield,Alden,Unincorporated Ouray County,CO,9.83,37.955667,-107.72246
+POINT (-104.903273 39.827876),6343,RCRA,Rocky Mountain Arsenal - Army,Commerce City,CO,17000,39.827876,-104.903273
+POINT (-105.13088 39.98364),1208,Brownfield,"Residence, 1055 Griffith Street",Louisville,CO,0,39.98364,-105.13088
+POINT (-107.733149 37.942599),1432,Brownfield,Una,Unincorporated Ouray County,CO,10.3,37.942599,-107.733149
+POINT (-107.72861 37.971877),1306,Brownfield,Glen Monarch M.S.,Unincorporated Ouray County,CO,2.99,37.971877,-107.72861
+POINT (-104.806189 39.6876924),1193,Brownfield,Kingsborough Park (Idalia Court Landfill),Aurora,CO,0.5,39.6876924,-104.806189
+POINT (-107.766001 37.990789),1320,Brownfield,Herbert,Unincorporated Ouray County,CO,9.33,37.990789,-107.766001
+POINT (-107.725335 37.935886),1307,Brownfield,Gold Coin,Unincorporated Ouray County,CO,10.32,37.935886,-107.725335
+POINT (-107.762818 37.981193),1344,Brownfield,Little Annie,Unincorporated Ouray County,CO,3.96,37.981193,-107.762818
+POINT (-104.91945 39.76249),1197,Brownfield,Couch,Denver,CO,0.25,39.76249,-104.91945
+POINT (-107.718332 37.961447),1355,Brownfield,Modoc,Unincorporated Ouray County,CO,10.22,37.961447,-107.718332
+POINT (-107.724846 37.972768),1435,Brownfield,Virginius M.S.,Unincorporated Ouray County,CO,4.76,37.972768,-107.724846
+POINT (-107.774518 37.975388),1376,Brownfield,Old Trail,Unincorporated Ouray County,CO,9.05,37.975388,-107.774518
+POINT (-107.723237 37.967521),1379,Brownfield,Only One,Unincorporated Ouray County,CO,20.68,37.967521,-107.723237
+POINT (-105.12796 39.9859),1206,Brownfield,Old Style Sausage and Louisville Store and Lock,Louisville,CO,0,39.9859,-105.12796
+POINT (-107.741355 37.94772),1424,Brownfield,Tipperary,Unincorporated Ouray County,CO,10.34,37.94772,-107.741355
+POINT (-107.725964 37.939151),1346,Brownfield,Luzon,Unincorporated Ouray County,CO,10.61,37.939151,-107.725964
+POINT (-107.734152 37.952931),1329,Brownfield,Imogene,Unincorporated Ouray County,CO,10.3,37.952931,-107.734152
+POINT (-108.35285 39.11019),1213,Brownfield,Palisades Gas Station,Palisades,CO,0.23,39.11019,-108.35285
+POINT (-107.726587 37.941285),1278,Brownfield,Dodo,Unincorporated Ouray County,CO,10,37.941285,-107.726587
+POINT (-107.717821 37.958741),1286,Brownfield,Ensign,Unincorporated Ouray County,CO,10.18,37.958741,-107.717821
+POINT (-107.724943 37.937241),1293,Brownfield,Fillipino,Unincorporated Ouray County,CO,10.38,37.937241,-107.724943
+POINT (-104.961 39.784),103,Abandoned Mine Land,OMAHA AND GRANT SMELTER,DENVER,CO,0,39.784,-104.961
+POINT (-107.686147 37.987374),1413,Brownfield,Sunday,Unincorporated Ouray County,CO,5.26,37.987374,-107.686147
+POINT (-107.725073 37.971139),1304,Brownfield,Gertrude M.S.,Unincorporated Ouray County,CO,5,37.971139,-107.725073
+POINT (-107.769291 37.987652),1347,Brownfield,Madison,Unincorporated Ouray County,CO,3.27,37.987652,-107.769291
+POINT (-106.15007 37.58219),1210,Brownfield,Monte Vista Boys and Girls Club Property,Monte Vista,CO,1,37.58219,-106.15007
+POINT (-107.689319 37.996876),1444,Brownfield,Yellow Brytis,Unincorporated Ouray County,CO,9.39,37.996876,-107.689319
+POINT (-108.730361 37.201167),1216,Brownfield,Towaoc Dining Hall,Towaoc,CO,0.23,37.201167,-108.730361
+POINT (-107.704728 37.97655),1302,Brownfield,Georgia Belle Extension,Unincorporated Ouray County,CO,9.64,37.97655,-107.704728
+POINT (-105.917 39.5),91,Abandoned Mine Land,JESSIE MINE AND MILL,BRECKENRIDGE,CO,0,39.5,-105.917
+POINT (-107.07389 38.87916),109,Abandoned Mine Land,STANDARD MINE,GUNNISON NATIONAL FORREST,CO,63,38.87916,-107.07389
+POINT (-105.12854 39.98094),1201,Brownfield,"Aggregate Industries, Louisville Plant",Louisville,CO,0,39.98094,-105.12854
+POINT (-107.725434 37.95011),1314,Brownfield,Hagar,Unincorporated Ouray County,CO,10.27,37.95011,-107.725434
+POINT (-107.746358 37.950723),1399,Brownfield,Rock Lake,Unincorporated Ouray County,CO,10.34,37.950723,-107.746358
+POINT (-107.724082 37.943612),1294,Brownfield,First National,Unincorporated Ouray County,CO,10.34,37.943612,-107.724082
+POINT (-107.688135 37.995026),1382,Brownfield,Ores and Metals No. 1,Unincorporated Ouray County,CO,9.06,37.995026,-107.688135
+POINT (-107.745557 37.953888),1402,Brownfield,Scorcher,Unincorporated Ouray County,CO,10.34,37.953888,-107.745557
+POINT (-105.2017 39.89416),4586,Federal Superfund,ROCKY FLATS PLANT (USDOE),GOLDEN,CO,6241,39.89416,-105.2017
+POINT (-104.6013 38.2683),6373,RCRA,Rockwool Plant - Pueblo,Pueblo,CO,39,38.2683,-104.6013
+POINT (-107.733965 37.958864),1280,Brownfield,Domingo No. 2,Unincorporated Ouray County,CO,10.34,37.958864,-107.733965
+POINT (-105.282079 40.098566),6338,RCRA,Raytheon Aircraft Company,Boulder,CO,1493,40.098566,-105.282079
+POINT (-104.739006 38.780687),6341,RCRA,Eagle Picher Technologies Llc,Colorado Springs,CO,13.31,38.780687,-104.739006
+POINT (-107.729698 37.948799),1433,Brownfield,Una M.S.,Unincorporated Ouray County,CO,5,37.948799,-107.729698
+POINT (-107.737772 37.943634),1266,Brownfield,Cosmos,Unincorporated Ouray County,CO,2.75,37.943634,-107.737772
+POINT (-104.71000000000001 40.028),88,Abandoned Mine Land,HENDRICKS MINING & MILLING,BOULDER,CO,0,40.028,-104.71
+POINT (-107.782834 37.971956),1439,Brownfield,Winnipeg,Unincorporated Ouray County,CO,8.39,37.971956,-107.782834
+POINT (-107.716407 37.949537),1221,Brownfield,Agnes No. 2,Unincorporated Ouray County,CO,10.33,37.949537,-107.716407
+POINT (-107.738031 37.953225),1351,Brownfield,McKinley,Unincorporated Ouray County,CO,10.34,37.953225,-107.738031
+POINT (-105.239 38.429),94,Abandoned Mine Land,US SMELTER,CANON CITY,CO,0,38.429,-105.239
+POINT (-104.864 38.711),143,Abandoned Mine Land,INDEPENDENCE MINE,VICTOR,CO,0,38.711,-104.864
+POINT (-107.717225 37.95735),1288,Brownfield,Equator,Unincorporated Ouray County,CO,10.34,37.95735,-107.717225
+POINT (-107.72149 37.941918),1250,Brownfield,Camp Bird,Unincorporated Ouray County,CO,10.34,37.941918,-107.72149
+POINT (-104.5601 38.272275),6375,RCRA,Safety-Kleen Systems Inc-Pueblo,Pueblo,CO,0,38.272275,-104.5601
+POINT (-107.720746 37.974706),1414,Brownfield,Sunlight Placer,Unincorporated Ouray County,CO,36.2,37.974706,-107.720746
+POINT (-107.770948 37.993075),1442,Brownfield,Yankee Boy,Unincorporated Ouray County,CO,7.33,37.993075,-107.770948
+POINT (-107.722691 37.953036),1400,Brownfield,Rudge,Unincorporated Ouray County,CO,10.4,37.953036,-107.722691
+POINT (-107.714331 37.958033),1287,Brownfield,Entomologist,Unincorporated Ouray County,CO,10.34,37.958033,-107.714331
+POINT (-107.73423 37.94764),1438,Brownfield,White Scud,Unincorporated Ouray County,CO,10.34,37.94764,-107.73423
+POINT (-107.720955 37.955719),1390,Brownfield,Priscilla,Unincorporated Ouray County,CO,9.31,37.955719,-107.720955
+POINT (-105.090446 39.508053),6367,RCRA,Lockheed Martin Waterton Plant,Littleton,CO,5200,39.508053,-105.090446
+POINT (-107.729717 37.94293),1443,Brownfield,Yellow Bird,Unincorporated Ouray County,CO,10.31,37.94293,-107.729717
+POINT (-107.737012 37.956849),1243,Brownfield,Bodega,Unincorporated Ouray County,CO,10.34,37.956849,-107.737012
+POINT (-103.707798 39.739957),6346,RCRA,Clean Harbors Deer Trail Llc,Deer Trail,CO,0,39.739957,-103.707798
+POINT (-107.705937 37.987036),1259,Brownfield,Columbine M.S.,Unincorporated Ouray County,CO,4.97,37.987036,-107.705937
+POINT (-105.394 40.116),112,Abandoned Mine Land,BUENO MILL & MINE SITE,JAMESTOWN,CO,0,40.116,-105.394
+POINT (-104.995145 39.798268),6352,RCRA,Koppers Inc,Denver,CO,65,39.798268,-104.995145
+POINT (-107.727647 37.967382),1343,Brownfield,Launaka M.S.,Unincorporated Ouray County,CO,5,37.967382,-107.727647
+POINT (-107.729628 37.945716),1357,Brownfield,Moraine,Unincorporated Ouray County,CO,10.34,37.945716,-107.729628
+POINT (-104.866137 40.465184),6378,RCRA,Kodak Colorado Division,Windsor,CO,0,40.465184,-104.866137
+POINT (-105.12796 39.985),1204,Brownfield,Former Alpine Lumber Property,Louisville,CO,0,39.985,-105.12796
+POINT (-106.343 37.921),129,Abandoned Mine Land,CORKSCREW AND GRAY COPPER GULCHES,OURAY,CO,0,37.921,-106.343
+POINT (-107.786356 37.977933),1365,Brownfield,Mountain Top,Unincorporated Ouray County,CO,10.35,37.977933,-107.786356
+POINT (-103.75603 38.214256),1211,Brownfield,Buckshot Industries,Ordway,CO,9,38.214256,-103.75603
+POINT (-107.726679 37.961498),1401,Brownfield,Saracen,Unincorporated Ouray County,CO,10.34,37.961498,-107.726679
+POINT (-107.707476 37.980088),1301,Brownfield,Georgia Belle,Unincorporated Ouray County,CO,10.41,37.980088,-107.707476
+POINT (-108.038 37.692),133,Abandoned Mine Land,RICO - ARGENTINE,RICO,CO,0,37.692,-108.038
+POINT (-107.722279 37.960993),1318,Brownfield,Hellespont,Unincorporated Ouray County,CO,10.34,37.960993,-107.722279
+POINT (-106.94 37.871),98,Abandoned Mine Land,NELSON TUNNEL,CREEDE,CO,0,37.871,-106.94
+POINT (-107.766551 37.988482),1226,Brownfield,American Girl M.S.,Unincorporated Ouray County,CO,2.4,37.988482,-107.766551
+POINT (-105.874 39.597),117,Abandoned Mine Land,PERU CREEK MINING DISTRICT,KEYSTONE,CO,0,39.597,-105.874
+POINT (-107.746621 37.951871),1239,Brownfield,Birds Eye,Unincorporated Ouray County,CO,10.34,37.951871,-107.746621
+POINT (-107.719388 37.968326),1389,Brownfield,Polar Bear,Unincorporated Ouray County,CO,7.03,37.968326,-107.719388
+POINT (-106.2692 39.23611),119,Abandoned Mine Land,CALIFORNIA GULCH,LEADVILLE,CO,11382,39.23611,-106.2692
+POINT (-107.683 38.056),127,Abandoned Mine Land,AMERICAN LEAD AND ZINC MILL,OURAY,CO,0,38.056,-107.683
+POINT (-107.695242 37.978398),1364,Brownfield,Mountain Sheep,Unincorporated Ouray County,CO,9.62,37.978398,-107.695242
+POINT (-104.95833 39.79166),104,Abandoned Mine Land,VASQUEZ BOULEVARD AND I-70,DENVER,CO,2880,39.79166,-104.95833
+POINT (-107.775237 37.995595),1244,Brownfield,Boston,Unincorporated Ouray County,CO,10.34,37.995595,-107.775237
+POINT (-107.727168 37.97031),1305,Brownfield,Glen Monarch,Unincorporated Ouray County,CO,10.06,37.97031,-107.727168
+POINT (-105.011053 39.664191),6357,RCRA,Safety-Kleen Systems Inc-Englewood,Englewood,CO,0,39.664191,-105.011053
+POINT (-107.738122 37.942219),1260,Brownfield,Compass,Unincorporated Ouray County,CO,10.34,37.942219,-107.738122
+POINT (-107.775872 37.97561),1319,Brownfield,Hendricks,Unincorporated Ouray County,CO,10.34,37.97561,-107.775872
+POINT (-107.703068 37.963254),1219,Brownfield,Agnes M.S.,Unincorporated Ouray County,CO,5,37.963254,-107.703068
+POINT (-107.724337 37.95945),1315,Brownfield,Halifax,Unincorporated Ouray County,CO,9.87,37.95945,-107.724337
+POINT (-107.778085 37.98228),1394,Brownfield,Randolph,Unincorporated Ouray County,CO,10.3,37.98228,-107.778085
+POINT (-107.77 37.99),1392,Brownfield,R.A.P.,Unincorporated Ouray County,CO,10.34,37.99,-107.77
+POINT (-107.742552 37.944651),1403,Brownfield,Scorifier,Unincorporated Ouray County,CO,7.87,37.944651,-107.742552
+POINT (-107.778176 37.973725),1361,Brownfield,Mount Sneffels Belle,Unincorporated Ouray County,CO,10.32,37.973725,-107.778176
+POINT (-107.736071 37.971864),1368,Brownfield,New Discovery,Unincorporated Ouray County,CO,8.43,37.971864,-107.736071
+POINT (-104.79589 39.69567),1194,Brownfield,Sandoval,Aurora,CO,0.25,39.69567,-104.79589
+POINT (-107.735612 37.939727),1410,Brownfield,St. Paul,Unincorporated Ouray County,CO,10.34,37.939727,-107.735612
+POINT (-107.053 38.253),131,Abandoned Mine Land,POWERHORN DISTRICT VERMICULITE,POWDERHORN,CO,0,38.253,-107.053
+POINT (-107.79 37.980000000000004),1234,Brownfield,Badger,Unincorporated Ouray County,CO,14.14,37.98,-107.79
+POINT (-106.10823 39.295999),1192,Brownfield,Paris Mill Property,Alma,CO,8,39.295999,-106.10823
+POINT (-107.740151 37.941433),1387,Brownfield,Palo Alto,Unincorporated Ouray County,CO,10.34,37.941433,-107.740151
+POINT (-107.00474 38.89972),1196,Brownfield,Peanut Mine,Crested Butte,CO,82.88,38.89972,-107.00474
+POINT (-107.766545 37.981352),1358,Brownfield,Morning Star,Unincorporated Ouray County,CO,6.42,37.981352,-107.766545
+POINT (-106.191 37.793),125,Abandoned Mine Land,CARBONERO MINE,OPHIR,CO,0,37.793,-106.191
+POINT (-107.691835 37.997628),1380,Brownfield,Ores and Metals,Unincorporated Ouray County,CO,9.21,37.997628,-107.691835
+POINT (-107.79149 37.985063),1224,Brownfield,Almondsbury,Unincorporated Ouray County,CO,9.85,37.985063,-107.79149
+POINT (-107.741777 37.961277),1371,Brownfield,Nootka M.S.,Unincorporated Ouray County,CO,4.9,37.961277,-107.741777
+POINT (-105.12913 39.98184),1207,Brownfield,PDI Trust Property,Louisville,CO,0,39.98184,-105.12913
+POINT (-107.729523 37.950813),1372,Brownfield,Norma,Unincorporated Ouray County,CO,10.34,37.950813,-107.729523
+POINT (-105.2017 39.894169),6362,RCRA,Rocky Flats Env Tech Site-Us Doe,Golden,CO,6500,39.894169,-105.2017
+POINT (-108.80775 40.08777),1214,Brownfield,Former 5S Gas Station,Rangely,CO,0.5,40.08777,-108.80775
+POINT (-107.770154 37.990329),1321,Brownfield,Herbert M.S.,Unincorporated Ouray County,CO,2.54,37.990329,-107.770154
+POINT (-103.54597 37.98008),1200,Brownfield,La Junta Gas Station,La Junta,CO,0.9,37.98008,-103.54597
+POINT (-107.70466 37.904879),1212,Brownfield,National Belle Mine,Ouray,CO,14,37.904879,-107.70466
+POINT (-104.99000000000001 39.784),100,Abandoned Mine Land,ARGO SMELTER,DENVER,CO,0,39.784,-104.99
+POINT (-107.733988 37.935434),1322,Brownfield,Hester,Unincorporated Ouray County,CO,10.34,37.935434,-107.733988
+POINT (-104.924282 39.82721),6342,RCRA,Approved Oil Services Inc,Commerce City,CO,1.2,39.82721,-104.924282
+POINT (-107.781736 37.972849),1220,Brownfield,Agnes No. 1,Unincorporated Ouray County,CO,8.82,37.972849,-107.781736
+POINT (-107.737863 37.943012),1356,Brownfield,Mojave,Unincorporated Ouray County,CO,8.37,37.943012,-107.737863
+POINT (-107.723803 37.955333),1445,Brownfield,Yellow Rose,Unincorporated Ouray County,CO,10.34,37.955333,-107.723803
+POINT (-107.735479 37.957636),1428,Brownfield,Tuscarora,Unincorporated Ouray County,CO,10.34,37.957636,-107.735479
+POINT (-104.738795 38.778503),6377,RCRA,Ingersol Rand Security And Safety,Security,CO,35.1,38.778503,-104.738795
+POINT (-107.73075 37.948932),1291,Brownfield,Evangeline M.S.,Unincorporated Ouray County,CO,0.79,37.948932,-107.73075
+POINT (-104.334167 38.300000000000004),6372,RCRA,Pueblo Chemical Depot,Pueblo,CO,23000,38.3,-104.334167
+POINT (-107.733532 37.944036),1375,Brownfield,Old Ireland,Unincorporated Ouray County,CO,7.01,37.944036,-107.733532
+POINT (-107.719529 37.966746),1240,Brownfield,Black Quail,Unincorporated Ouray County,CO,7.68,37.966746,-107.719529
+POINT (-104.920249 39.682076),6348,RCRA,"Brown Retail Group, Inc. (Redfield Riflescope)",Denver,CO,10.5,39.682076,-104.920249
+POINT (-107.685644 37.994211),1332,Brownfield,Jessie,Unincorporated Ouray County,CO,8.4,37.994211,-107.685644
+POINT (-106.051 39.494),90,Abandoned Mine Land,CLAIM JUMPER/SHOCK HILL,BRECKENRIDGE,CO,0,39.494,-106.051
+POINT (-107.709546 37.953948),1298,Brownfield,Fox,Unincorporated Ouray County,CO,10.34,37.953948,-107.709546
+POINT (-107.740455 37.960004),1431,Brownfield,U.S. Treasury Extension,Unincorporated Ouray County,CO,10.34,37.960004,-107.740455
+POINT (-107.784615 37.97412),1416,Brownfield,Sweepstakes,Unincorporated Ouray County,CO,9.99,37.97412,-107.784615
+POINT (-105.50361 40.05583),145,Abandoned Mine Land,CAPTAIN JACK MILL,WARD,CO,25,40.05583,-105.50361
+POINT (-105.358 40.123),114,Abandoned Mine Land,GOLDEN AGE MINE,JAMESTOWN,CO,0,40.123,-105.358
+POINT (-105.004 39.714),105,Abandoned Mine Land,WESTERN MINERALS DENVER PLANT,DENVER,CO,0,39.714,-105.004
+POINT (-107.727807 37.948645),1290,Brownfield,Evangeline,Unincorporated Ouray County,CO,7.71,37.948645,-107.727807
+POINT (-108.544172 39.05909),6363,RCRA,Safety-Kleen Systems Inc-Grand Jct,Grand Junction,CO,0,39.05909,-108.544172
+POINT (-107.740246 37.936824),1336,Brownfield,Keystone,Unincorporated Ouray County,CO,9.87,37.936824,-107.740246
+POINT (-104.813603 39.760388),6337,RCRA,Magellan Pipeline Company Lp,Aurora,CO,42,39.760388,-104.813603
+POINT (-104.881326 39.870742),6364,RCRA,Onyx Environmental Services Llc,Henderson,CO,0,39.870742,-104.881326
+POINT (-107.746024 37.949657),1393,Brownfield,Ranchero,Unincorporated Ouray County,CO,10.34,37.949657,-107.746024
+POINT (-105.5 39.75),111,Abandoned Mine Land,"CENTRAL CITY, CLEAR CREEK",IDAHO SPRINGS,CO,256000,39.75,-105.5
+POINT (-107.740739 37.94418),1391,Brownfield,Pythias,Unincorporated Ouray County,CO,10.32,37.94418,-107.740739
+POINT (-107.724096 37.947355),1271,Brownfield,Crusader,Unincorporated Ouray County,CO,10.34,37.947355,-107.724096
+POINT (-107.722483 37.958695),1284,Brownfield,Emily,Unincorporated Ouray County,CO,10.34,37.958695,-107.722483
+POINT (-104.71000000000001 40.028),89,Abandoned Mine Land,SWEENEY MILL,BOULDER,CO,0,40.028,-104.71
+POINT (-105.1337 39.51421),4587,Federal Superfund,AIR FORCE PLANT PJKS,LITTLETON,CO,460,39.51421,-105.1337
+POINT (-107.726414 37.942851),1316,Brownfield,Hancock,Unincorporated Ouray County,CO,10.34,37.942851,-107.726414
+POINT (-107.727284 37.953217),1262,Brownfield,Conqueror,Unincorporated Ouray County,CO,10.34,37.953217,-107.727284
+POINT (-107.77 37.99),1300,Brownfield,Genessee,Unincorporated Ouray County,CO,7.12,37.99,-107.77
+POINT (-107.69633 37.981778),1295,Brownfield,Forest King,Unincorporated Ouray County,CO,8.9,37.981778,-107.69633
+POINT (-107.723112 37.968575),1272,Brownfield,Daisy,Unincorporated Ouray County,CO,9.45,37.968575,-107.723112
+POINT (-107.732307 37.931599),1339,Brownfield,Kokomo,Unincorporated Ouray County,CO,10.34,37.931599,-107.732307
+POINT (-107.728763 37.968444),1342,Brownfield,Launaka,Unincorporated Ouray County,CO,9.86,37.968444,-107.728763
+POINT (-107.722926 37.97105),1326,Brownfield,Idaho,Unincorporated Ouray County,CO,9.9,37.97105,-107.722926
+POINT (-107.782958 37.977868),1227,Brownfield,Annex,Unincorporated Ouray County,CO,10.34,37.977868,-107.782958
+POINT (-107.776769 37.970341),1420,Brownfield,Terrible No. 2,Unincorporated Ouray County,CO,9.65,37.970341,-107.776769
+POINT (-107.78 38),1417,Brownfield,Swiss Boy,Unincorporated Ouray County,CO,10.34,38,-107.78
+POINT (-105.81 39.6),116,Abandoned Mine Land,PENNSYLVANIA MINE,KEYSTONE,CO,0,39.6,-105.81
+POINT (-107.735623 37.952865),1418,Brownfield,Talisman,Unincorporated Ouray County,CO,10.34,37.952865,-107.735623
+POINT (-105.862 39.273),106,Abandoned Mine Land,LONDON MINE,FAIRPLAY,CO,0,39.273,-105.862
+POINT (-107.706027 37.952703),1241,Brownfield,Blewsome,Unincorporated Ouray County,CO,10.34,37.952703,-107.706027
+POINT (-107.794555 37.993002),1415,Brownfield,Sunrise,Unincorporated Ouray County,CO,20.41,37.993002,-107.794555
+POINT (-107.73682 37.945707),1255,Brownfield,Chicago,Unincorporated Ouray County,CO,10.34,37.945707,-107.73682
+POINT (-104.945277 39.800833),6345,RCRA,Suncor Energy (Usa) Inc East Plant,Commerce City,CO,6,39.800833,-104.945277
+POINT (-105.849 40.428),108,Abandoned Mine Land,NORTH STAR MINE,GRAND LAKE,CO,0,40.428,-105.849
+POINT (-107.710707 37.955888),1277,Brownfield,Dipper,Unincorporated Ouray County,CO,10.34,37.955888,-107.710707
+POINT (-107.723133 37.940718),1340,Brownfield,Kootenai,Unincorporated Ouray County,CO,7.99,37.940718,-107.723133
+POINT (-105.12796 39.985),1202,Brownfield,Coal Creek Collision Center,Louisville,CO,0,39.985,-105.12796
+POINT (-107.738122 37.942219),1333,Brownfield,Jicarilla,Unincorporated Ouray County,CO,8.25,37.942219,-107.738122
+POINT (-107.722606 37.951429),1235,Brownfield,Balsam,Unincorporated Ouray County,CO,10.27,37.951429,-107.722606
+POINT (-105.075 37.875),99,Abandoned Mine Land,WEST WILLOW CREEK,CREEDE,CO,0,37.875,-105.075
+POINT (-107.717464 37.959786),1282,Brownfield,Duchess,Unincorporated Ouray County,CO,10.34,37.959786,-107.717464
+POINT (-106.02694 38.55194),137,Abandoned Mine Land,SMELTERTOWN SITE,SALIDA,CO,203,38.55194,-106.02694
+POINT (-107.716376 37.942488),1312,Brownfield,Gore,Unincorporated Ouray County,CO,10.05,37.942488,-107.716376
+POINT (-107.701018 37.956451),1232,Brownfield,B.O. Smith No. 2,Unincorporated Ouray County,CO,10.34,37.956451,-107.701018
+POINT (-107.685356 37.986907),1283,Brownfield,Early Day,Unincorporated Ouray County,CO,9.46,37.986907,-107.685356
+POINT (-107.778481 37.989082),1408,Brownfield,Snow Bird,Unincorporated Ouray County,CO,8.47,37.989082,-107.778481
+POINT (-107.699845 37.977044),1397,Brownfield,Representative,Unincorporated Ouray County,CO,7.64,37.977044,-107.699845
+POINT (-103.86504 38.10976),1209,Brownfield,Manzanola Train Station,Manzanola,CO,2.27,38.10976,-103.86504
+POINT (-104.9361 39.79166),4806,Non-Federal Superfund,SAND CREEK INDUSTRIAL,COMMERCE CITY,CO,150,39.79166,-104.9361
+POINT (-107.726157 37.963079),1253,Brownfield,Channel,Unincorporated Ouray County,CO,9.6,37.963079,-107.726157
+POINT (-107.772929 37.975932),1449,Brownfield,Zigzag M.S.,Unincorporated Ouray County,CO,4.98,37.975932,-107.772929
+POINT (-105.237 38.443),92,Abandoned Mine Land,COLLEGE OF THE CANON % ERNEST BAUMAN,CANON CITY,CO,0,38.443,-105.237
+POINT (-107.736378 37.944043),1398,Brownfield,Rigel,Unincorporated Ouray County,CO,10.16,37.944043,-107.736378
+POINT (-106.504 39.138),121,Abandoned Mine Land,MOUNT CHAMPION MILL SITE,LEADVILLE,CO,10,39.138,-106.504
+POINT (-106.4 39.525),107,Abandoned Mine Land,BELDEN CRIBBINGS,GILMAN,CO,0,39.525,-106.4
+POINT (-107.723254 37.950963),1434,Brownfield,Verne,Unincorporated Ouray County,CO,5.45,37.950963,-107.723254
+POINT (-105.12971 39.98184),1203,Brownfield,Comcast Cablevision of Colorado,Louisville,CO,0,39.98184,-105.12971
+POINT (-107.684644 37.992207),1383,Brownfield,Ores and Metals No. 2,Unincorporated Ouray County,CO,9.43,37.992207,-107.684644
+POINT (-107.734711 37.943331),1237,Brownfield,Basuto,Unincorporated Ouray County,CO,9.4,37.943331,-107.734711
+POINT (-107.726219 37.949551),1425,Brownfield,Tom Moore,Unincorporated Ouray County,CO,9.99,37.949551,-107.726219
+POINT (-107.705212 37.955605),1231,Brownfield,B.O. Smith No. 1,Unincorporated Ouray County,CO,10.33,37.955605,-107.705212
+POINT (-107.776489 37.971899),1396,Brownfield,Rene,Unincorporated Ouray County,CO,10.34,37.971899,-107.776489
+POINT (-105.404 40.132),113,Abandoned Mine Land,EVENING STAR MINE,JAMESTOWN,CO,0,40.132,-105.404
+POINT (-107.739811 37.949082),1261,Brownfield,Coney,Unincorporated Ouray County,CO,10.34,37.949082,-107.739811
+POINT (-104.758 38.168),146,Abandoned Mine Land,ILSE MINE,WESTCLIFFE,CO,0,38.168,-104.758
+POINT (-108.79838 40.0876),1215,Brownfield,Former Galaxy Self-Serve Gas Station,Rangely,CO,0.5,40.0876,-108.79838
+POINT (-106.375 39.292),122,Abandoned Mine Land,ST. KEVIN GULCH WATERSHED,LEADVILLE,CO,0,39.292,-106.375
+POINT (-107.772829 37.974829),1242,Brownfield,Blythe,Unincorporated Ouray County,CO,10.34,37.974829,-107.772829
+POINT (-105.003289 39.678551),6354,RCRA,Protex Industries Inc,Denver,CO,5.3,39.678551,-105.003289
+POINT (-107.726567 37.971545),1285,Brownfield,Emily M.S.,Unincorporated Ouray County,CO,4.74,37.971545,-107.726567
+POINT (-107.68792 37.988174),1388,Brownfield,Pine,Unincorporated Ouray County,CO,9.46,37.988174,-107.68792
+POINT (-107.767762 37.985121),1230,Brownfield,B.F. Requa,Unincorporated Ouray County,CO,10.31,37.985121,-107.767762
+POINT (-106.336 37.82),138,Abandoned Mine Land,KENDRICK & GELDER SMELTING CO,SILVERTON,CO,0,37.82,-106.336
+POINT (-104.73648 38.74579),1195,Brownfield,Davidson,Colorado Springs,CO,0.25,38.74579,-104.73648
+POINT (-107.727214 37.93645),1229,Brownfield,August Flower,Unincorporated Ouray County,CO,10.34,37.93645,-107.727214
+POINT (-107.729974 37.941609),1334,Brownfield,Juneau,Unincorporated Ouray County,CO,10.28,37.941609,-107.729974
+POINT (-104.9136 39.78083),4809,Non-Federal Superfund,CHEMICAL SALES CO.,DENVER,CO,15,39.78083,-104.9136
+POINT (-107.693187 38.002125),1381,Brownfield,Ores and Metals M.S.,Unincorporated Ouray County,CO,4.53,38.002125,-107.693187
+POINT (-104.8842 39.83556),4585,Federal Superfund,ROCKY MOUNTAIN ARSENAL (USARMY),ADAMS COUNTY,CO,17350,39.83556,-104.8842
+POINT (-107.72236 37.962458),1350,Brownfield,Manilla,Unincorporated Ouray County,CO,9.27,37.962458,-107.72236
+POINT (-107.780622 37.972878),1421,Brownfield,Terrible No. 3,Unincorporated Ouray County,CO,5.31,37.972878,-107.780622
+POINT (-107.719548 37.965788),1437,Brownfield,White Quail,Unincorporated Ouray County,CO,10.02,37.965788,-107.719548
+POINT (-107.043 38.382),144,Abandoned Mine Land,GREAT WEST GOLD AND SILVER,VULCAN,CO,0,38.382,-107.043
+POINT (-105 39.71666),102,Abandoned Mine Land,DENVER RADIUM SITE,DENVER,CO,108,39.71666,-105
+POINT (-107.729132 37.939769),1269,Brownfield,Cracker Jack,Unincorporated Ouray County,CO,10.63,37.939769,-107.729132
+POINT (-107.73083 37.95515),1248,Brownfield,Buckeye Girl,Unincorporated Ouray County,CO,10.34,37.95515,-107.73083
+POINT (-107.728148 37.948428),1309,Brownfield,Gold Nugget Placer,Unincorporated Ouray County,CO,23.49,37.948428,-107.728148
+POINT (-105.03626 39.89947),1450,Brownfield,Novotny,Westminster,CO,0.25,39.89947,-105.03626
+POINT (-107.718652 37.969683),1423,Brownfield,Tiger,Unincorporated Ouray County,CO,10.34,37.969683,-107.718652
+POINT (-107.7672 37.960472),1366,Brownfield,Nada,Unincorporated Ouray County,CO,10.8,37.960472,-107.7672
+POINT (-107.736375 37.957511),1430,Brownfield,U.S. Treasury,Unincorporated Ouray County,CO,10.34,37.957511,-107.736375
+POINT (-105.402 40.069),135,Abandoned Mine Land,SLIDE MINE/CORNING TUNNEL,ROWENA,CO,12,40.069,-105.402
+POINT (-103.423 38.242),132,Abandoned Mine Land,SANTA FE (BRIDGE) CULVERT,PUEBLO,CO,0,38.242,-103.423
+POINT (-108.7483 38.36666),141,Abandoned Mine Land,URAVAN URANIUM PROJECT (UNION CARBIDE CORP.),URAVAN,CO,426,38.36666,-108.7483
+POINT (-107.70405 37.962782),1276,Brownfield,Declaration M.S.,Unincorporated Ouray County,CO,5,37.962782,-107.70405
+POINT (-106.042 37.875),128,Abandoned Mine Land,"CANYON CREEK WATERSHED, MINED AREAS",OURAY,CO,0,37.875,-106.042
+POINT (-107.77 37.99),1447,Brownfield,York State,Unincorporated Ouray County,CO,7.33,37.99,-107.77
+POINT (-107.784254 37.981854),1341,Brownfield,Last Chance,Unincorporated Ouray County,CO,10.34,37.981854,-107.784254
+POINT (-104.69666 39.660835),6336,RCRA,Denver-Arapahoe Chem Waste Process Fac,Aurora,CO,0,39.660835,-104.69666
+POINT (-105.2205 39.754906),1199,Brownfield,Golden 708 Property,Golden,CO,0.5,39.754906,-105.2205
+POINT (-107.736058 37.934454),1378,Brownfield,Omega,Unincorporated Ouray County,CO,10.34,37.934454,-107.736058
+POINT (-105.015718 39.821881),6351,RCRA,Hamilton Sundstrand,Denver,CO,181,39.821881,-105.015718
+POINT (-107.726484 37.963421),1325,Brownfield,Humming Bird,Unincorporated Ouray County,CO,10.34,37.963421,-107.726484
+POINT (-104.988 39.49),123,Abandoned Mine Land,MOLYCORP INC,LOUVIERS,CO,0,39.49,-104.988
+POINT (-107.780272 37.976302),1313,Brownfield,Gray Eagle,Unincorporated Ouray County,CO,10.2,37.976302,-107.780272
+POINT (-107.762576 37.97924),1359,Brownfield,Morning Star Mill Site,Unincorporated Ouray County,CO,3.39,37.97924,-107.762576
+POINT (-107.730183 37.932621),1317,Brownfield,Heckla,Unincorporated Ouray County,CO,10.34,37.932621,-107.730183
+POINT (-107.697172 37.98183),1296,Brownfield,Forest Queen,Unincorporated Ouray County,CO,9.53,37.98183,-107.697172
+POINT (-107.780147 37.969739),1426,Brownfield,Tornado,Unincorporated Ouray County,CO,10.34,37.969739,-107.780147
